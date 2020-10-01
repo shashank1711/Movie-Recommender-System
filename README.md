@@ -8,7 +8,7 @@
 
 > [Built With](#built-with)
 
-> [Visualisations](#visualisations)
+> [Preview](#preview)
 
 > [Project File Description](#project-file-description)
 
@@ -43,7 +43,7 @@ Recommendation Systems are everywhere from <strong>Youtube</strong> recommending
 
 ---
 
-# Visualisations
+# Preview
 
 Preview of the webpage is shown below
 
