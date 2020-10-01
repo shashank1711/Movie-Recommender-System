@@ -1,0 +1,20 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: black;
+}
+.heading {
+    margin: auto;
+    box-sizing: border-box;
+    transition: all 0.35s linear;
+    font-family: sans-serif;
+    text-align: center;
+    color: #FFFFFF;
+    font-weight: 500;
+    font-size: 25px;
+    list-style: none;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    font-weight: bold;
+}
+
